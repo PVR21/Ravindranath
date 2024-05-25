@@ -82,7 +82,7 @@ body {
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
-  color:#343a40; /* var(--bs-body-color);*/
+  color:var(--bs-body-color);
   text-align: var(--bs-body-text-align);
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
@@ -11292,7 +11292,8 @@ textarea.form-control-lg {
 }
 body {
   padding-top: 3.375rem;
-  color: #6c757d;
+ /* color: #6c757d;*/
+  color: #343a40;
 }
 
 @media (min-width: 992px) {
@@ -11329,6 +11330,7 @@ p.lead {
   text-transform: uppercase;
   font-weight: 500;
   font-size: 1.5rem;
+  color: #343a40;
 }
 
 #sideNav {
