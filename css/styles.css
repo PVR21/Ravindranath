@@ -193,8 +193,8 @@ ol ul,
 ul ol {
   margin-bottom: 0;
 }
-li{
-padding: 2rem;
+.jo{
+padding: 1rem;
 }
 dt {
   font-weight: 700;
