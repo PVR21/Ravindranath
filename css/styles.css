@@ -88,7 +88,13 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
-
+.icon {
+        background: url("Images/logo.png");
+        height: 20px;
+        width: 20px;
+        display: block;
+        /* Other styles here */
+    }
 hr {
   margin: 1rem 0;
   color: inherit;
